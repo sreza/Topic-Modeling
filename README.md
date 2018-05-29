@@ -1,3 +1,3 @@
 # topic-modeling
 
-Visulaizing topics extracted from employee reviews on Glassdorr
+Visulizing topics extracted from employee reviews on Glassdoor
